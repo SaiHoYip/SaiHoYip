@@ -2,12 +2,6 @@
 
 <h1 align="left"> Technologies and Tools I use:</h1>
 <p align="left">
-    <a href="https://www.w3schools.com/html/" target="_blank">  <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" />  </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" />  </a>
     <a href="https://git-scm.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />  </a>
     <a href="https://aws.amazon.com/" target="_blank"> <img
@@ -24,6 +18,12 @@
             src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40" />  </a>
     <a href="https://kubernetes.io/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />  </a>
+    <a href="https://www.w3schools.com/html/" target="_blank">  <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5" width="40" height="40" />  </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3" width="40" height="40" />  </a>
 </p>
 
 <h2> About me: </h2>
