@@ -27,6 +27,6 @@
 </p>
 
 <h2> About me: </h2>
-<ol> - Bachelor degree in Information Systems Management / York College</ol>
 <ol> - Learning about aws services such as ECS/Fargate, CloudFormation, Ec2, Etc</ol>
 <ol> - Tools such as Kubernetes, Docker, and Jenkins
+<ol> - Bachelor degree in Information Systems Management / York College</ol>
