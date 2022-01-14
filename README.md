@@ -30,6 +30,8 @@
 <p align="left">
     <a href="https://www.credly.com/badges/e42050a8-e0fb-4558-822c-a911c7625599" target="_blank"> <img
             alt="Aws Developer Associate" width="40" height="40" />  </a>
+</p>
+<p align="left">
     <a href="https://www.credly.com/earner/earned/badge/ccf7d608-6802-439f-b19c-1ef5126bea3a" target="_blank"> <img
             alt="Aws Practicioner" width="40" height="40" />  </a>
 </p>
