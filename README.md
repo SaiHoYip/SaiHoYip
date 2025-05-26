@@ -58,3 +58,8 @@
   <li>🔧 Tools such as Kubernetes, Docker, and Jenkins</li>
   <li>🎓 Bachelor's degree in Information Systems Management / York College</li>
 </ul>
+
+<p>
+    Connect with me: <img src=https://www.linkedin.com/in/saihoyip/
+                       alt="LinkedIn"  />
+</p>
