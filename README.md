@@ -60,6 +60,6 @@
 </ul>
 
 <p>
-    Connect with me: <img src=https://www.linkedin.com/in/saihoyip/
-                       alt="LinkedIn"  />
+    Connect with me: <a href="url">https://www.w3schools.com/html/html_links.asp> LINKEDIN </a>
+
 </p>
